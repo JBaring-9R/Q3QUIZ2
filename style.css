@@ -1,0 +1,69 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/d5/b8/87/d5b887a50850c58f181e56a84e0db146.jpg);
+    color: #680747;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+    text-align: center;
+}
+
+.container {
+    margin-top:30px;
+    width: 200%;
+    padding: 50px;
+    border: 10px solid;
+    background-image: url(https://i.pinimg.com/736x/b2/b3/ab/b2b3abaf7ebd029a4c6ae1fae73a5530.jpg);
+}
+
+h1 {
+    font-size: 28px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #543864;
+    color: #F4BF96;
+}
+
+.details-personal {
+  background-color: #84577C;
+  border: 1px solid #FFBD69;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.details-price {
+  background-color: #84577C;
+  border: 1px solid #FFBD69;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.details-ticket {
+  background-color: #84577C;
+  width: 525px;
+  border: 1px solid #FFBD69;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+
+.btn-medium{
+    width: 265px;
+}
+
+.btn-large{
+    width: 525px;
+}
+
+.footer{
+    color: #D17D98;
+}
